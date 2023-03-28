@@ -1,0 +1,14 @@
+html {font-family: 'Roboto', sans-serif;color:#222
+    ;line-height: 1.4;font-size: 110%;
+    background-color: white;
+}
+
+body {margin: 0;}
+ 
+
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+img {width: 100%;}
+
